@@ -1,2 +1,2 @@
 # progress-bar
-Web page using HTML ,CSS,J
+Web page using HTML ,CSS,Javascript
